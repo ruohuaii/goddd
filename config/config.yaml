@@ -1,6 +1,6 @@
 # database
 DB:
-  DSN: "root:dhf@tcp(localhost:3306)/goddd?parseTime=true"
+  DSN: "root:password@tcp(localhost:3306)/goddd?parseTime=true"
 
 # jwt
 JWT:
