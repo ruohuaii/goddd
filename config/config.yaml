@@ -1,0 +1,32 @@
+# database
+DB:
+  DSN: "root:dhf@tcp(localhost:3306)/goddd?parseTime=true"
+
+# jwt
+JWT:
+  PrivateKey: |
+    -----BEGIN RSA PRIVATE KEY-----
+    MIICXAIBAAKBgQCoZocKMJFtf1wLtEbWhLmiM5cDKTdjAOl5O2g4X70/o0/IkU6Y
+    NjNAe3lfyD2kEN/BGGfieaDd2LkGMHCcF9w8mSE0skqcEzehQrf+AvhkrOfEn6Rd
+    tBwHVXL39ZfGGxZE6Lucbu1FHMn0xgp3JXzMLUq3Pn2/XKm8F3mEzgb66wIDAQAB
+    AoGAdzOL5ySV7II4b3h+pB5zIGOQQ4aLVCMzIMNydGUgmslJEln43jmPcdd1BN3C
+    9D2VhSN3dZJO0no0DjN/op4pH/35WuSWf0YUCTqUXoC9kmS2MZfkFVLTNin9JTVu
+    ULVFN7Ot8vI46Z3Iyzqwcv/SljgXzES4I1LcV8EqBPIqErECQQDOUjjeJo2WlFGV
+    DBu0Y0uGCYQNFGI9IsZJejDOFvd4AuF46ATHorl5miKiN1OhSmgUtXGWNBwmXzRC
+    lufO/fPNAkEA0PLZRcec03rSIXYbQERmyJaLR9KVQiX1fim4RgApJxDjg7//nqlA
+    76Xdk7UK/bFhgnh8aIwq4fiqsyK/c8nhlwJAYkuL6lKlzCKXh5IANP3FgnNQJUcb
+    0pKZs3HyhI0uk0+UCh1IAbCF+ugzLeN8BXDEi3EyT2Q+MQ3UgRESGWyl1QJBAIWa
+    kqUUssliolP1Ag3A7vvZjut40il+vg9Su9o+phGtsdx/ewJHdRcHNrwIqiN3NUNI
+    qTvsTEs7RmLOmB6AercCQGGeai2QEB3e2Ym+egp7rNH0PgkVju5PuTmxvCz+X3q9
+    oNN0S0RRn0GVITkPTC25i3oGml3qo0ghd00ql0vgDHk=
+    -----END RSA PRIVATE KEY-----
+  PublicKey: |
+    -----BEGIN PUBLIC KEY-----
+    MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCoZocKMJFtf1wLtEbWhLmiM5cD
+    KTdjAOl5O2g4X70/o0/IkU6YNjNAe3lfyD2kEN/BGGfieaDd2LkGMHCcF9w8mSE0
+    skqcEzehQrf+AvhkrOfEn6RdtBwHVXL39ZfGGxZE6Lucbu1FHMn0xgp3JXzMLUq3
+    Pn2/XKm8F3mEzgb66wIDAQAB
+    -----END PUBLIC KEY-----
+    
+
+
