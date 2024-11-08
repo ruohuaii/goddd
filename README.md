@@ -1,2 +1,2 @@
 # goddd
-Golang uses Gin+Ent to implement domain-driven (DDD)
+Golang uses Gin+Ent to implement Domain-Driven Design (DDD)
